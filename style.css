@@ -1,0 +1,30 @@
+img{
+	border: 5px solid;
+	border-radius: 50%;
+}
+h1{
+	color: red;
+}
+h2{
+	color: blue;
+}
+img{
+	border: 10px solid;
+	border-radius: 50%;
+}
+.contenu{
+	width: 700px;
+	margin:auto;
+}
+.entete{
+	background-color: white;
+	text-align: center;
+	border-radius: 20px;
+	padding: 40px;
+}
+.element{
+	background-color: white;
+	border-radius: 20px;
+	padding: 40px;
+	margin: 20px 0px;
+}
